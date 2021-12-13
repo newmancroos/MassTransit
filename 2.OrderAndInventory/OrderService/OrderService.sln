@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderService", "OrderService\OrderService.csproj", "{6F2106F9-5B96-48A2-A03E-DDCCD3EAAE97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "..\Model\Model.csproj", "{234D9845-118C-4995-A121-6A85BD8C0A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2106F9-5B96-48A2-A03E-DDCCD3EAAE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2106F9-5B96-48A2-A03E-DDCCD3EAAE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2106F9-5B96-48A2-A03E-DDCCD3EAAE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2106F9-5B96-48A2-A03E-DDCCD3EAAE97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234D9845-118C-4995-A121-6A85BD8C0A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234D9845-118C-4995-A121-6A85BD8C0A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234D9845-118C-4995-A121-6A85BD8C0A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234D9845-118C-4995-A121-6A85BD8C0A54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51B628FC-E43B-4EA1-B355-F334F01C268F}
+	EndGlobalSection
+EndGlobal
